@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1001",
+    "precio": "$800",
+    "titulo": "Taladro Percutor",
+    "descripcion": "• Motor de 700W \n• Velocidad Variable Reversible\n• Empuñadura Lateral Multi-posición y Barra de Profundidad\n• Interruptor con Bloqueo para Uso Contínuo\n• Con Caja Plástica",
+    "imagen": ""
+  },
+  {
+    "id": "1002",
+    "precio": "$1,200",
+    "titulo": "Taladro Inalambrico",
+    "descripcion": "• Velocidad Sin Carga 0-400/min / 0-1500/min RPM\n• Recubrimiento de goma y luz led\n• Incluye 2 Baterías, 1 Cargador y Caja Plástica",
+    "imagen": ""
+  },
+  {
+    "id": "1003",
+    "precio": "$2,300",
+    "titulo": "Esmeril Angular",
+    "descripcion": "• Motor de 850W\n• Engranajes en Espiral, Reducen la Vibración y Aumentan\nla Vida Útil\n• Diseño Ergonómico, se Adapta Fácilmente a la Forma de la Mano\n• Interruptor Deslizante",
+    "imagen": ""
+  },
+  {
+    "id": "1004",
+    "precio": "$950",
+    "titulo": "Sierra Caladora",
+    "descripcion": "• Motor de 600W\n• Cambio de Hojas sin Herramientas\n• Zapata Ajustable para Biselados Precisos de 0° - 45°\n• Acción Pendular de 4 Etapas\n• Con Caja Plástica",
+    "imagen": ""
+  },
+  {
+    "id": "1005",
+    "precio": "$3,450",
+    "titulo": "Sierra Circular",
+    "descripcion": "•  Motor de 1700W\n• Ajuste Manual Fácil y Rápido del Ángulo de Biselado de 0º a 45º\n• Profundidad de Corte de hasta 62mm a 90º\n• Incluye Disco de 7-1/4” (185mm) de 18 Dientes de Carburo de\nTungsteno",
+    "imagen": ""
+  },
+  {
+    "id": "1006",
+    "precio": "$6,800",
+    "titulo": "Sierra de Banco",
+    "descripcion": "• Motor de 1800W\n• Capacidad de Corte de 76mm (3”) a 90º\n•  Guía de Corte Auto-Alineable\n•  Con Ruedas para Fácil Transporte",
+    "imagen": ""
+  },
+  {
+    "id": "1007",
+    "precio": "$380",
+    "titulo": "Pinzas Electricas de 10\"",
+    "descripcion": "Juego de 3 pinzas para electricista 6\" y 8\" Foy\nJuego de 3 pinzas para electricista\nFabricadas en acero al alto carbón\nManeral con doble plástico",
+    "imagen": ""
+  },
+  {
+    "id": "1008",
+    "precio": "$180",
+    "titulo": "Flexometro 5m",
+    "descripcion": "- Cinta extra ancha completamente revestida de Mylar. Revestimiento Blade Armor en los\nprimeros 8 centímetros. Incluye 2 ganchos extra intercambiables:\nmagnético y extra grande",
+    "imagen": ""
+  },
+  {
+    "id": "1009",
+    "precio": "$360",
+    "titulo": "Juego de Desarmadores",
+    "descripcion": "Juego de desarmadores Klein Tools, incluye 2 destornilladores de punta plana, 1 cabinet y una punta Philips, todos con puntas maquinadas a precisión para un ajuste firme.",
+    "imagen": ""
+  },
+  {
+    "id": "1010",
+    "precio": "$90",
+    "titulo": "Llave Inglesa",
+    "descripcion": "- Llaves fijas con ambas caras abiertas, que ofrecen dos dimensiones diferentes en una sola llave\n- Perfíl de 15°\n- Diseño antideslizante que proporciona un mejor contacto evitando el deslizamiento",
+    "imagen": ""
+  },
+  {
+    "id": "1011",
+    "precio": "$85",
+    "titulo": "Martillo",
+    "descripcion": "- Mango de fibra de vidrio para mayor durabilidad\n- Mango bi-material para mayor comodidad. Más largo para una mayor energía de impacto.\n- Área reforzado para mayor durabilidad\n- Fuerte conexión del mango con la cabeza para evitar que se separe durante un uso normal",
+    "imagen": ""
+  },
+  {
+    "id": "1012",
+    "precio": "$110",
+    "titulo": "Arco con Segueta",
+    "descripcion": "- Bastidor tubular. Palanca de tensión para un cambio rápido de la hoja. Hoja de acero tratado.\nDentado americano con afilado permanente H.P.",
+    "imagen": ""
+  },
+  {
+    "id": "1013",
+    "precio": "$4,850",
+    "titulo": "Soldadora Inverter",
+    "descripcion": "Soldador inversor para electrodo y TIG 140 amperios Elite, su diseño ofrece mejores prestaciones en soldadura de corriente directa (DC). Tiene un rango de regulación de 20 a 140 amperes y corriente de entrada dual de 110/220 volts.",
+    "imagen": ""
+  },
+  {
+    "id": "1014",
+    "precio": "$320",
+    "titulo": "Serrucho",
+    "descripcion": "- Serrucho con empuñadura ergonómica de material sintético. Hoja de acero de calidad sueca;\nespesor 1 mm. Dentado isósceles delgado y afilado por rectificación doble bisel. 3ª espina de\ncorte en la cima de cada diente.",
+    "imagen": ""
+  },
+  {
+    "id": "1015",
+    "precio": "$65",
+    "titulo": "Lentes de Seguridad",
+    "descripcion": "Lentes de seguridad Cabel útiles para proteger los ojos durante trabajos de riesgo moderado, están hechos de policarbonato claro con ventilación directa.",
+    "imagen": ""
+  },
+  {
+    "id": "1016",
+    "precio": "$1,530",
+    "titulo": "Arnes",
+    "descripcion": "Arnés de seguridad de cuerpo completo unitalla Tulmex, brinda seguridad al realizar trabajos en las alturas. Está elaborado con fibras de poliéster de alta tenacidad que soportan un peso combinado máximo de 140 kg.",
+    "imagen": ""
+  },
+  {
+    "id": "1017",
+    "precio": "$140",
+    "titulo": "Casco",
+    "descripcion": "Casco protector Cabel, útil para usar en obras, instalaciones eléctricas y diversos trabajos pesados.",
+    "imagen": ""
+  },
+  {
+    "id": "1018",
+    "precio": "$260",
+    "titulo": "Guantes de Carnaza",
+    "descripcion": "Guantes de Carnaza Puño Corto Unitalla 1 par, son ideales para realizar todo tipo de trabajo, están fabricados con carnaza estilo corto, brindan una gran protección para el desgaste en las manos del operador",
+    "imagen": ""
+  },
+  {
+    "id": "1019",
+    "precio": "$45",
+    "titulo": "Chaleco Reflejante",
+    "descripcion": "Chaleco de seguridad amarillo L/XL Milwaukee, brinda un mejor ajuste al cuerpo, cuenta con 10 bolsillos incluyendo 1 compartimiento transparente para almacenar una identificación, 1 trasero para tableta y 3 internos.",
+    "imagen": ""
+  },
+  {
+    "id": "1020",
+    "precio": "$1,380",
+    "titulo": "Botas con Casquillo",
+    "descripcion": "Bota de seguridad top rank, suela inyectada directo al corte triple densidad (hule acrilo nitrilo, poliuretano, talón de poliuretano de alta resistencia) lo cual nos permite tener un calzado muy cómodo para largas jornadas de trabajo",
+    "imagen": ""
+  },
+  {
+    "id": "1021",
+    "precio": "$840",
+    "titulo": "Letrero Emergencia",
+    "descripcion": "eñal de piso estable Rubbermaid, útil en la señalización de pisos mojados o zonas resbalosas y con ello, prevenir accidentes.",
+    "imagen": ""
+  },
+  {
+    "id": "1022",
+    "precio": "$240",
+    "titulo": "Cinta delimitadora",
+    "descripcion": "Cinta de advertencia Cabel, útil para marcar ciertas áreas restringidas durante trabajos industriales pesados que implican riesgo.",
+    "imagen": ""
+  },
+  {
+    "id": "1023",
+    "precio": "$18,550",
+    "titulo": "Roscadora Electrica",
+    "descripcion": "• Motor de 1500W\n• Base Maquinada en Aluminio\n• Bolso de Tela para Polvo\n• 9 Posiciones de Corte Pre-Determinadas\n• Con Disco para Corte de Aluminio de 80 Dientes de\nCarburo de Tungsteno",
+    "imagen": ""
+  },
+  {
+    "id": "1024",
+    "precio": "$8,300",
+    "titulo": "Martillo Demoledor",
+    "descripcion": "• Motor de 1250W\n• 3 Modos: Percusión, Rotación y Cincelado\n• Empuñadura Lateral Multi-posición y Barra de Profundidad\n• Con Caja Plástica y 7 Brocas SDS Plus",
+    "imagen": ""
+  }
+]
