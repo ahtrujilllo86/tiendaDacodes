@@ -39,7 +39,7 @@ function Carrito() {
 					icon: 'success',
 					timer: 1500,
 				});
-				localStorage.clear();
+				localStorage.setItem('carrito', JSON.stringify([]))
 				navigate('/');
 			} else if (result.isDenied) {
 				Swal.fire({
@@ -59,7 +59,7 @@ function Carrito() {
 			showConfirmButton: false,
 			timer: 1500,
 		});
-		localStorage.clear();
+		localStorage.setItem('carrito', JSON.stringify([]))
 		navigate('/factura', { state: productosCarrito });
 	};
 
